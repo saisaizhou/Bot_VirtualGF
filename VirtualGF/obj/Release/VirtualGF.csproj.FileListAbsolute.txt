@@ -1,0 +1,43 @@
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Bot Application.dll.config
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Bot Application.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Bot Application.pdb
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Autofac.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Chronic.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.Bot.Builder.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.Bot.Connector.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.Rest.ClientRuntime.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Newtonsoft.Json.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\System.Net.Http.Formatting.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\System.Web.Http.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\System.Web.Http.WebHost.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Autofac.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.Bot.Builder.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.Bot.Connector.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\Newtonsoft.Json.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\System.Net.Http.Formatting.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\System.Web.Http.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\System.Web.Http.WebHost.xml
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\obj\Release\VirtualGF.csprojResolveAssemblyReference.cache
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\obj\Release\Bot Application.dll
+D:\FY18\Azure Practice\Demo & Sample Code\Bot-Virtual GF\VirtualGF\VirtualGF\obj\Release\Bot Application.pdb
